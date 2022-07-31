@@ -12,7 +12,7 @@
 
 ```sh
 sudo apt-get install -y pass
-
+```
 
 ### Как начать пользоваться
 

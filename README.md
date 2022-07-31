@@ -7,6 +7,10 @@
  * [fzf](./utilities/fzf.md)
  * rofi
 
+### Хранение паролей
+ * [pass](./utilities/pass.md)
+ * [pass-winmenu](./utilities/pass-winmenu.md)
+
 ## Образы с dockerhub
 ### Puppeteer
 

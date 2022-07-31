@@ -53,7 +53,11 @@ $ gpg --full-generate-key
 
 ```sh
 $ gpg --list-secret-keys --keyid-format long
-# link: https://youtu.be/hlRQTj1D9LA?t=420 -- тут показано, откуда брать id
+```
+
+Как объяснить, как из результата вычленить id, я не знаю, поэтому просто [дам ссылку](https://youtu.be/hlRQTj1D9LA?t=420).
+
+```sh
 $ pass init <your gpg-id>
 ```
 

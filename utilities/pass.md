@@ -31,7 +31,6 @@ Usage: pass init [--path=subfolder] gpg-id
  * `gpg-id` — «а это что на новая дерьмовина в моём сортире?»
 А это — ключ gpg-подписи.
 
-
 ```sh
 $ gpg --full-generate-key
 ```

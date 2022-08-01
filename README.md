@@ -11,6 +11,9 @@
  * [pass](./utilities/pass.md)
  * [pass-winmenu](./utilities/pass-winmenu.md)
 
+### Делимся терминалом
+ * [GoTTY](./utilities/gotty.md)
+
 ## Образы с dockerhub
 ### Puppeteer
 
